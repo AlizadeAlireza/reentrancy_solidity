@@ -21,8 +21,7 @@ Example:
 
     thief contract: 
 
-        attack fucn(): 
-
+        
         fallback func(): this is used when money is sent without a specific function 
         being called.
 
